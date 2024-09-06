@@ -1,6 +1,8 @@
 # Real-Time Stock Market Data with Kafka and AWS
 
-Welcome to the "Real-Time Stock Market Data with Kafka and AWS" repository! This project demonstrates how to build a scalable pipeline for real-time stock market data ingestion and processing using Apache Kafka and AWS services like S3.
+## Introduction
+
+This project demonstrates how to build a scalable pipeline for real-time stock market data ingestion and processing using Apache Kafka and AWS S3.
 
 ## Overview
 
